@@ -1,1 +1,20 @@
-streamlit
+  # Core Application & Data
+    streamlit
+    pandas
+    numpy
+
+    # Database Connector
+    psycopg2-binary
+
+    # External APIs
+    kiteconnect
+    google-generativeai
+
+    # Data Visualization & Export
+    plotly
+    openpyxl
+
+    # File Parsing
+    PyMuPDF
+ta
+supabase
